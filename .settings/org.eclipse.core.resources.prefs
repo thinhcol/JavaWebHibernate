@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/trangchu/login.jsp=UTF-8
+encoding//WebContent/trangchu/quanlivideo.jsp=UTF-8
+encoding//src/poly/com/entity/Videos.java=UTF-8
+encoding//src/poly/com/servlet/UserServlet.java=UTF-8
+encoding//src/poly/com/servlet/dangky.java=UTF-8
+encoding//src/poly/com/servlet/dangnhap.java=UTF-8
+encoding//src/poly/com/servlet/editthongtin.java=UTF-8
+encoding//src/poly/com/servlet/quanlivideo.java=UTF-8
+encoding//src/poly/com/servlet/quenmatkhau.java=UTF-8
+encoding//src/poly/com/servlet/thongke.java=UTF-8
+encoding//src/poly/com/servlet/thongkeyeuthich.java=UTF-8
+encoding//src/poly/com/servlet/trangchu.java=UTF-8
+encoding//src/poly/com/servlet/videochitiet.java=UTF-8
